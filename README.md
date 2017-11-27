@@ -24,3 +24,23 @@ Donde se encontraron los siguientes sistemas de navegación:
  todos los resultados de la búsqueda
 
  [NAVEGACION](BREATHER.docx)
+
+  ![NAVEGACION](assets/images/1.png)
+
+    ![NAVEGACION](assets/images/2.png)
+
+      ![NAVEGACION](assets/images/3.png)
+
+      ![NAVEGACION](assets/images/4.png)  
+
+        ![NAVEGACION](assets/images/5.png)
+
+        ![NAVEGACION](assets/images/6.png)
+
+        ![NAVEGACION](assets/images/7.png)
+
+        ![NAVEGACION](assets/images/8.png)
+
+        ![NAVEGACION](assets/images/9.png)
+
+        ![NAVEGACION](assets/images/10.png)
