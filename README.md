@@ -25,22 +25,22 @@ Donde se encontraron los siguientes sistemas de navegación:
 
  [NAVEGACION](BREATHER.docx)
 
-  ![NAVEGACION](assets/images/1.png)
+  ![](assets/images/1.png)
 
-    ![NAVEGACION](assets/images/2.png)
+  ![](assets/images/2.png)
 
-      ![NAVEGACION](assets/images/3.png)
+  ![](assets/images/3.png)
 
-      ![NAVEGACION](assets/images/4.png)  
+  ![](assets/images/4.png)  
 
-        ![NAVEGACION](assets/images/5.png)
+  ![](assets/images/5.png)
 
-        ![NAVEGACION](assets/images/6.png)
+  ![](assets/images/6.png)
 
-        ![NAVEGACION](assets/images/7.png)
+  ![](assets/images/7.png)
 
-        ![NAVEGACION](assets/images/8.png)
+  ![](assets/images/8.png)
 
-        ![NAVEGACION](assets/images/9.png)
+  ![](assets/images/9.png)
 
-        ![NAVEGACION](assets/images/10.png)
+  ![](assets/images/10.png)
